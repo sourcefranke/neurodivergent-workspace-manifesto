@@ -1,0 +1,8 @@
+baseurl: "/neurodivergent-workspace-manifesto/"
+github_username: sourcefranke
+
+remote_theme: jekyll/minima
+plugins:
+  - jekyll-remote-theme
+minima:
+  skin: auto
