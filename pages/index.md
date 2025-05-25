@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Neurodivergent-friendly Workspace Manifesto
+title: EN
 ---
 
 # Preamble
